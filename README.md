@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! I'm Surabhi Suresh 👋
 
-<!--
-**surabhisuresh24/surabhisuresh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate software developer with experience in various programming languages and technologies. I enjoy building efficient and user-friendly applications. 
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- React
+- C
+- C++
+
+### Databases:
+- MongoDB
+- SQLite
+- MySQL
+- PostgreSQL
+
+### UI/UX Design:
+- Figma
+- Photoshop
+
+### Cloud Services:
+- AWS
+
+## Contact Me
+- 📧 Email: [surabeesuresh@mail.com](mailto:surabeesuresh@mail.com)
+- 🌐 LinkedIn: [Surabhi Suresh](https://www.linkedin.com/in/surabhi-undefined-6001a128b/)
+
+## Projects
+Feel free to check out my repositories to see my projects!
+
+---
+
+Thanks for visiting my GitHub profile! 😊
