@@ -1,67 +1,147 @@
-<h1 align="center">👋 Hi, I'm Surabhi Suresh</h1>
-<h3 align="center">✨ A Passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Surabhi Suresh</h1>
+<h3 align="center">Python Django Full Stack Developer | React UI | AWS | SQL</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surabhisuresh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="mailto:surabeesuresh@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="https://github.com/surabhisuresh24">GitHub</a>
 </p>
+
+---
+
+## 💁‍♀️ About Me
+
+I’m a **Python Django Full Stack Developer** with strong experience in  
+building **scalable backend systems**, **REST APIs**, and **clean UI** using React.
+
+I love transforming business requirements into working software and delivering  
+production-grade applications using:
+
+- ✔ **Django + DRF** for backend  
+- ✔ **React** for frontend UI  
+- ✔ **AWS (EC2, S3, RDS, Lambda)** for deployments  
+- ✔ **SQL / MongoDB** for databases  
+
+🚀 Passionate about solving real-world problems and delivering clean, maintainable code.
+
+---
+
+## 🔥 Skills Overview
+
+### **Backend**
+- Python  
+- Django / Django REST Framework  
+- REST API Development  
+- SQL (MySQL, PostgreSQL)  
+- MongoDB  
+
+### **Frontend**
+- React (Hooks, Components)  
+- HTML5 / CSS3 / SCSS  
+- Bootstrap  
+
+### **DevOps / Cloud**
+- AWS (EC2, S3, VPC, RDS, Lambda)  
+- Git / GitHub  
+- CI/CD basics  
+
+---
+
+## 🚀 Featured Projects (My Best Work)
+
+### 🔐 **Investors Portal – Private Project**
+A production-grade investors platform delivered for **Learnfluence**.  
+Built end-to-end with **Finance & Compliance teams** to publish investor updates safely and quickly.
+
+**Highlights**
+- Secure authentication  
+- Admin CMS to publish investor reports  
+- Compliance-approved workflows  
+- Optimized for performance  
+
+> _(This repo is private due to company policy.)_
+
+---
+
+### 🎯 **Megaplacementdrive**
+A large-scale placement portal designed to support **student registration, scheduling, and company drives.**
+
+**Tech Stack:** Django, SQL, HTML/CSS  
+**Features:**
+- Student registration & onboarding  
+- Drive management module  
+- Admin dashboards  
+- Resume & document processing  
+
+---
+
+### 👩‍💼 **HirePro – Recruitment Platform**
+A complete hiring and interview management system for HR teams.
+
+**Tech Stack:** Django, Bootstrap, MySQL  
+**Features:**
+- Candidate tracking system  
+- Interview scheduler  
+- HR dashboard  
+- Resume upload & evaluation  
+- Email notifications  
+
+🔗 Repo: https://github.com/surabhisuresh24/Hire-Pro
+
+---
+
+### 🏭 **Project Alpha – Asset Management System**
+An enterprise-level asset tracking and inventory management software.
+
+**Tech Stack:** Django, MySQL  
+**Features:**
+- Asset lifecycle tracking  
+- GRN (Goods Receipt Notes)  
+- Barcode scanning  
+- Inventory control  
+- Audit trails  
+- Admin reporting dashboard  
+
+🔗 Repo: https://github.com/surabhisuresh24/Project-Alpha
+
+---
+
+### 📦 **Asset Sync – IT Asset Management**
+Created for IT teams to manage software/hardware assets efficiently.
+
+**Tech Stack:** Django, AWS  
+**Features:**
+- Asset tagging  
+- Warranty tracking  
+- User assignments  
+- AWS-hosted deployment  
+
+🔗 Repo: https://github.com/surabhisuresh24/Asset-Sync
+
+---
+
+## 🛠 My Tech Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,mongodb,mysql,git,aws" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://twitter.com/your_twitter_handle" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=surabhisuresh24&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surabhisuresh24&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-- 💬 **Ask me about**: Django, Python, React,Html,Css,Bootstrap,AWS
-- 📫 **How to reach me**: [surabeesuresh@mail.com](mailto:surabeesuresh@mail.com)
+## 🤝 Connect with Me
+📧 **surabeesuresh@gmail.com**  
+📍 Kochi, Kerala  
+Open to **Full-time roles**, **Freelance**, and **Collaborations**  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/your_twitter_handle" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/surabhi-undefined-6001a128b/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/your_facebook_profile" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/your_instagram_handle" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surabhisuresh&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surabhisuresh&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surabhisuresh&" alt="GitHub Streak" /></p>
-
----
-
-<h3 align="left">🌟 Thank you for visiting my profile!</h3>
+⭐ *If you like my work, consider giving a star to my projects!*  
