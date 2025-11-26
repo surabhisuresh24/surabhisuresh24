@@ -1,147 +1,153 @@
-<h1 align="center">Hi 👋, I'm Surabhi Suresh</h1>
-<h3 align="center">Python Django Full Stack Developer | React UI | AWS | SQL</h3>
+<!-- HEADER -->
+<h1 align="center">🌟 Surabhi Suresh 🌟</h1>
+<h3 align="center">Python Django Full-Stack Developer | React UI | AWS | PostgreSQL</h3>
 
 <p align="center">
-  <a href="mailto:surabeesuresh@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="https://github.com/surabhisuresh24">GitHub</a>
+  <img src="https://img.shields.io/badge/Focus-Django%20Backend-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-React-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 💁‍♀️ About Me
+## 👩‍💻 About Me  
 
-I’m a **Python Django Full Stack Developer** with strong experience in  
-building **scalable backend systems**, **REST APIs**, and **clean UI** using React.
+I'm a **Python Django Full-Stack Developer** who specializes in building  
+**scalable backend systems**, **secure dashboards**, **clean UI**, and **production-grade web apps**.
 
-I love transforming business requirements into working software and delivering  
-production-grade applications using:
+🌱 I convert real business requirements into working software.  
+💡 I enjoy solving problems with clean, maintainable and efficient code.  
+🚀 I build fully deployed apps using **Django, React, PostgreSQL, AWS**.  
+🎨 I also love designing beautiful, responsive UI.
 
-- ✔ **Django + DRF** for backend  
-- ✔ **React** for frontend UI  
-- ✔ **AWS (EC2, S3, RDS, Lambda)** for deployments  
-- ✔ **SQL / MongoDB** for databases  
-
-🚀 Passionate about solving real-world problems and delivering clean, maintainable code.
+> ⭐ My strength: *Backend engineering + clean UI experience.*
 
 ---
 
-## 🔥 Skills Overview
+## ⚡ Skills & Tools
 
 ### **Backend**
 - Python  
-- Django / Django REST Framework  
-- REST API Development  
-- SQL (MySQL, PostgreSQL)  
-- MongoDB  
+- Django  
+- REST API  
+- PostgreSQL  
+- MySQL  
+- Authentication / Permissions  
+- MVC, MVT architecture  
 
 ### **Frontend**
 - React (Hooks, Components)  
-- HTML5 / CSS3 / SCSS  
+- HTML5  
+- CSS3 / SCSS  
 - Bootstrap  
 
-### **DevOps / Cloud**
-- AWS (EC2, S3, VPC, RDS, Lambda)  
-- Git / GitHub  
-- CI/CD basics  
+### **Cloud & DevOps**
+- AWS (EC2, S3, RDS, VPC)  
+- Git & GitHub  
+- Linux basics  
+- CI / Build pipelines  
 
 ---
 
-## 🚀 Featured Projects (My Best Work)
-
-### 🔐 **Investors Portal – Private Project**
-A production-grade investors platform delivered for **Learnfluence**.  
-Built end-to-end with **Finance & Compliance teams** to publish investor updates safely and quickly.
-
-**Highlights**
-- Secure authentication  
-- Admin CMS to publish investor reports  
-- Compliance-approved workflows  
-- Optimized for performance  
-
-> _(This repo is private due to company policy.)_
+## 🎨 Tech Stack Icons  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,postgres,mysql,html,css,bootstrap,js,git,github,aws" />
+</p>
 
 ---
 
-### 🎯 **Megaplacementdrive**
-A large-scale placement portal designed to support **student registration, scheduling, and company drives.**
+# 🚀 Featured Projects (My Best Work)
 
-**Tech Stack:** Django, SQL, HTML/CSS  
-**Features:**
-- Student registration & onboarding  
-- Drive management module  
-- Admin dashboards  
-- Resume & document processing  
+### 🔐 **Investors Portal – Production Delivered (Private Repo)**  
+A complete investors portal built for Learnfluence — fully deployed, secure, and approved by Finance & Compliance.
+
+**Key Highlights**  
+✔ End-to-end feature delivery  
+✔ Secure authentication & content control  
+✔ Admin CMS for publishing investor updates  
+✔ Production deployment on AWS  
+✔ High-performance backend  
+
+> (Repo is private due to company policy — but fully developed by me)
 
 ---
 
-### 👩‍💼 **HirePro – Recruitment Platform**
-A complete hiring and interview management system for HR teams.
+### 🎯 **Megaplacementdrive**  
+A complete placement management portal used by students + admin + training teams.
 
-**Tech Stack:** Django, Bootstrap, MySQL  
-**Features:**
-- Candidate tracking system  
-- Interview scheduler  
-- HR dashboard  
-- Resume upload & evaluation  
+**Tech Stack:** Django, PostgreSQL, Bootstrap  
+**Key Features:**  
+- Student registration system  
+- Drive creation & scheduling  
+- Admin dashboard  
+- Document processing  
+
+---
+
+### 👩‍💼 **Hire-Pro – Recruitment System**  
+A recruitment automation platform for HR teams.
+
+**Tech Stack:** Django, MySQL, Bootstrap  
+**Key Features:**  
+- Candidate tracking dashboard  
+- Interview scheduling  
+- Resume evaluation  
+- Multi-step forms  
 - Email notifications  
 
-🔗 Repo: https://github.com/surabhisuresh24/Hire-Pro
+🔗 Repo: https://github.com/surabhisuresh24/Hire-Pro  
 
 ---
 
-### 🏭 **Project Alpha – Asset Management System**
-An enterprise-level asset tracking and inventory management software.
+### 🏭 **Project Alpha – Asset Management System**  
+A robust enterprise-grade asset tracking platform.
 
-**Tech Stack:** Django, MySQL  
-**Features:**
-- Asset lifecycle tracking  
+**Tech Stack:** Python, Django, PostgreSQL  
+**Key Features:**  
 - GRN (Goods Receipt Notes)  
+- Asset lifecycle tracking  
 - Barcode scanning  
-- Inventory control  
-- Audit trails  
-- Admin reporting dashboard  
+- Inventory + Stock management  
+- Audit logs  
+- Reporting dashboards  
 
-🔗 Repo: https://github.com/surabhisuresh24/Project-Alpha
+🔗 Repo: https://github.com/surabhisuresh24/Project-Alpha  
 
 ---
 
-### 📦 **Asset Sync – IT Asset Management**
-Created for IT teams to manage software/hardware assets efficiently.
+### 💼 **Asset-Sync – Asset Management for IT Teams**  
+Built for internal IT asset tracking with AWS deployment.
 
-**Tech Stack:** Django, AWS  
-**Features:**
+**Tech Used:** Django, AWS, SQL  
+**Key Features:**  
 - Asset tagging  
-- Warranty tracking  
-- User assignments  
-- AWS-hosted deployment  
+- Warranty & service reminders  
+- User-wise assignments  
+- Cloud deployment  
 
-🔗 Repo: https://github.com/surabhisuresh24/Asset-Sync
-
----
-
-## 🛠 My Tech Toolbox
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,mongodb,mysql,git,aws" />
-</p>
+🔗 Repo: https://github.com/surabhisuresh24/Asset-Sync  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surabhisuresh24&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surabhisuresh24&theme=tokyonight" height="180" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=surabhisuresh24&show_icons=true&theme=react" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=surabhisuresh24&theme=react" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+# 🤝 Connect With Me  
+
 📧 **surabeesuresh@gmail.com**  
 📍 Kochi, Kerala  
-Open to **Full-time roles**, **Freelance**, and **Collaborations**  
+💼 Open to **Full-time Roles**, **Freelance**, and **Collaborations**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-blue?style=for-the-badge" />
+</p>
 
 ---
 
-⭐ *If you like my work, consider giving a star to my projects!*  
+⭐ *If my projects inspire you, drop a star!*
